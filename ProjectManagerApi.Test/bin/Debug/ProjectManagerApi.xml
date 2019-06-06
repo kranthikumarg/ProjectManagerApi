@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjectManagerApi</name>
+    </assembly>
+    <members>
+        <member name="T:ProjectManagerApi.Controllers.DBFixtureController">
+            <summary>
+             
+            </summary>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.DBFixtureController.DeleteTestData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:ProjectManagerApi.Controllers.ProjectController">
+            <summary>
+            Project Controller 
+            </summary>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.ProjectController.Get">
+            <summary>  
+            
+            To get all project details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.ProjectController.Post(BusinessEntities.ProjectModel)">
+            <summary>
+            Update project details
+            </summary>
+            <param name="_projectModel"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ProjectManagerApi.Controllers.TaskController">
+            <summary>
+            Task Controller
+            </summary>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.TaskController.GetParentTasks">
+            <summary>
+            To get all parent tasks
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.TaskController.Get">
+            <summary>
+            To get all tasks
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.TaskController.Post(BusinessEntities.TaskModel)">
+            <summary>
+             To update task
+            </summary>
+            <param name="oTask"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ProjectManagerApi.Controllers.UserController">
+            <summary>
+             User Controller
+            </summary>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.UserController.InsertUpdateUser(BusinessEntities.UserModel)">
+            <summary>
+            To update user
+            </summary>
+            <param name="_userModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.UserController.Get">
+            <summary>
+            To get all users details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ProjectManagerApi.Controllers.UserController.DeleteUser(BusinessEntities.UserModel)">
+            <summary>
+            To delete user
+            </summary>
+            <param name="_userModel"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

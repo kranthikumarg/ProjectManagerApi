@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\SBA-Main-Project\FSD_ProjectManagerAPI\BusinessEntities\bin\Release\BusinessEntities.dll
+C:\Users\Admin\Desktop\SBA-Main-Project\FSD_ProjectManagerAPI\BusinessEntities\bin\Release\BusinessEntities.pdb
+C:\Users\Admin\Desktop\SBA-Main-Project\FSD_ProjectManagerAPI\BusinessEntities\obj\Release\Business_Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SBA-Main-Project\FSD_ProjectManagerAPI\BusinessEntities\obj\Release\Business_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SBA-Main-Project\FSD_ProjectManagerAPI\BusinessEntities\obj\Release\BusinessEntities.dll
+C:\Users\Admin\Desktop\SBA-Main-Project\FSD_ProjectManagerAPI\BusinessEntities\obj\Release\BusinessEntities.pdb
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\bin\Release\BusinessEntities.dll
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\bin\Release\BusinessEntities.pdb
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\obj\Release\Business_Entities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\obj\Release\BusinessEntities.dll
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\obj\Release\BusinessEntities.pdb

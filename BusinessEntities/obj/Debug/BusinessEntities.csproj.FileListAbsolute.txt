@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Admin\Desktop\SBA\ProjectManager_API\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache

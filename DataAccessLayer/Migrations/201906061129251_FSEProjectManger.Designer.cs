@@ -7,13 +7,13 @@ namespace DataAccessLayer.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class FinalSBA : IMigrationMetadata
+    public sealed partial class FSEProjectManger : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(FinalSBA));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(FSEProjectManger));
         
         string IMigrationMetadata.Id
         {
-            get { return "201904030645166_FinalSBA"; }
+            get { return "201906061129251_FSEProjectManger"; }
         }
         
         string IMigrationMetadata.Source

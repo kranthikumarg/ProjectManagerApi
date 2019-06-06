@@ -36,7 +36,7 @@ C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessL
 C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\bin\Debug\EntityFramework.xml
 C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.FinalSBA.resources
-C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.FSEProjectManger.resources
+C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache

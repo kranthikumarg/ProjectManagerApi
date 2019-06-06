@@ -3,7 +3,7 @@ namespace DataAccessLayer.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class FinalSBA : DbMigration
+    public partial class FSEProjectManger : DbMigration
     {
         public override void Up()
         {

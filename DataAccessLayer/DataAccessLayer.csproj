@@ -50,9 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBFixtureRepo.cs" />
-    <Compile Include="Migrations\201904030645166_FinalSBA.cs" />
-    <Compile Include="Migrations\201904030645166_FinalSBA.Designer.cs">
-      <DependentUpon>201904030645166_FinalSBA.cs</DependentUpon>
+    <Compile Include="Migrations\201906061129251_FSEProjectManger.cs" />
+    <Compile Include="Migrations\201906061129251_FSEProjectManger.Designer.cs">
+      <DependentUpon>201906061129251_FSEProjectManger.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ParentTasks.cs" />
@@ -77,8 +77,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201904030645166_FinalSBA.resx">
-      <DependentUpon>201904030645166_FinalSBA.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201906061129251_FSEProjectManger.resx">
+      <DependentUpon>201906061129251_FSEProjectManger.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

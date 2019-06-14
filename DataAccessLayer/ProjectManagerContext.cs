@@ -20,5 +20,6 @@ namespace DataAccessLayer
                 .Property(e => e.Parent_Task)
                 .IsUnicode(false);
         }
+
     }
 }

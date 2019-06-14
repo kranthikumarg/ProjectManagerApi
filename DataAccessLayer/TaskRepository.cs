@@ -20,6 +20,7 @@ namespace DataAccessLayer
                 return context.Tasks.Include(x => x.User).Include(x => x.Project).Include(x => x.ParentTask).ToList();
             }
         }
+
         /// <summary>
         /// To add the task
         /// 
@@ -34,6 +35,7 @@ namespace DataAccessLayer
                 return oTask;
             }
         }
+
         /// <summary>
         /// To update the task
         /// 

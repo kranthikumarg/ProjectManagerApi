@@ -13,7 +13,6 @@ namespace DataAccessLayer
         {
             Tasks = new HashSet<Task>();
         }
-
         [Key]
         public long Parent_ID { get; set; }
 

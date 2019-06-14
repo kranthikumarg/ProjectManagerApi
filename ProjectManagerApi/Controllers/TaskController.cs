@@ -25,7 +25,6 @@ namespace ProjectManagerApi.Controllers
         {
             return Ok(_taskBusiness.GetAllParentTasks());
         }
-
       
         /// <summary>
         /// To get all tasks

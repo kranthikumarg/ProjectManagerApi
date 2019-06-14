@@ -5,7 +5,6 @@ namespace ProjectManagerApi.Test
 {
     class ProjectManagerNBench
     {
-
         private const string AddCounterName = "AddCounter";
         private Counter addCounter;
         private int key;
@@ -27,7 +26,5 @@ namespace ProjectManagerApi.Test
             userController.Get();
             addCounter.Increment();
         }
-
-
     }
 }

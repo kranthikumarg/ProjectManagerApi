@@ -8,8 +8,7 @@ namespace DataAccessLayer
 {
     public class UserRepository
     {
-        #region Public Methods
-       
+        #region Public Methods       
 
         /// <summary>
         /// To get user by id

@@ -7,3 +7,8 @@ C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\bin\Debug\
 C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
 C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb
 C:\Users\Admin\Desktop\Final\Final-ProjectManagerAPI\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Administrator\Desktop\FSE-Final\Final-ProjectManager-WebAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb

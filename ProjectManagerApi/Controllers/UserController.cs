@@ -37,6 +37,7 @@ namespace ProjectManagerApi.Controllers
             return _usrBusiness.GetAllUsers();
         }
 
+
         /// <summary>
         /// To delete user
         /// </summary>

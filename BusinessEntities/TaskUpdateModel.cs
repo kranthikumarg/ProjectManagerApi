@@ -5,5 +5,6 @@
         public StatusModel status { get; set; }
 
         public  TaskModel task { get; set; }
+
     }
 }

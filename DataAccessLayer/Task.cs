@@ -6,6 +6,7 @@ namespace DataAccessLayer
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
+
     [Table("Task")]
     public partial class Task
     {

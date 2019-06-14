@@ -10,7 +10,6 @@ namespace DataAccessLayer
     {
         public void DeleteTestData()  
         {
-
             using (var context = new ProjectManagerContext())
             {
                 var Task = context.Tasks.FirstOrDefault(x => x.Task1 == "XUnit-Test");
@@ -39,8 +38,7 @@ namespace DataAccessLayer
                 {
                     context.Projects.Remove(Projects);
                     context.SaveChanges();
-                }
-                
+                }              
 
             }
         }

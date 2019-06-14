@@ -24,6 +24,7 @@ namespace ProjectManagerApi.Controllers
             return _projectBusiness.GetAllProject();
         }
 
+
         /// <summary>
         /// Update project details
         /// </summary>

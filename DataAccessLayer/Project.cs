@@ -7,7 +7,6 @@ namespace DataAccessLayer
     using System.ComponentModel.DataAnnotations.Schema;
 
 
-
     [Table("Project")]
     public partial class Project
     {

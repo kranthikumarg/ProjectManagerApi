@@ -14,6 +14,7 @@ namespace DataAccessLayer
             Tasks = new HashSet<Task>();
         }
 
+
         [Key]
         public long User_ID { get; set; }
 

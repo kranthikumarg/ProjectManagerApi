@@ -12,10 +12,7 @@ namespace BusinessLayer
     {
        
 
-        ProjectRepository repoProject = new ProjectRepository();
-
-
-       
+        ProjectRepository repoProject = new ProjectRepository();     
 
 
         /// <summary>

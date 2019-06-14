@@ -37,7 +37,6 @@ namespace DataAccessLayer
             }
         }
 
-
         /// <summary>
         /// to update parent task
         /// </summary>

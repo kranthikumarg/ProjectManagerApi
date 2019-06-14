@@ -15,5 +15,6 @@ namespace BusinessEntities
         public long? Manager_ID { get; set; }
 
         public string Manager_Name { get; set; }
+
     }
 }

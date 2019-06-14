@@ -5,5 +5,6 @@
         public StatusModel status { get; set; }
 
         public  UserModel user { get; set; }
+
     }
 }

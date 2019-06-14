@@ -25,6 +25,7 @@ namespace ProjectManagerApi.Test
         #endregion
         
         #region Public Method
+
         public static UserModel GetTestDataUser()
         {
             string FileLoc = @"TestData\UserData.json";

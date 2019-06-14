@@ -21,6 +21,7 @@ namespace ProjectManagerApi.Test
         #endregion
 
         #region Public Methods
+
         public static IEnumerable GetUserTestData
         {
             get
